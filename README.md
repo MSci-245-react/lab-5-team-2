@@ -1,4 +1,4 @@
-# flaming-dragon-eagle-go-waterloo
+# flaming-dragon-eagles-go-waterloo
 An app for tracking reviews of dishes at different restaurants.
 Production: <https://your-netlify-domain.netlify.app>
 This project was bootstrapped with
