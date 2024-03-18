@@ -6,6 +6,7 @@ export default function App() {
   return (
     <Provider store={store}>
       <RestaurantScreen />
+      <a href="/learn-react">Learn React</a>
     </Provider>
   );
 }
